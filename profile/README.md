@@ -1,8 +1,10 @@
 <h1 align="center"> LiveMC Network | LiveLanguages 🤠</h1>
+<div align="center">
+     <a href="https://twitter.com/imjoycepg" target="blank"><img src="https://img.shields.io/twitter/follow/imjoycepg?color=red&style=for-the-badge" alt="imjoycepg" /></a>
+ <a href="https://twitter.com/Ryzeon_" target="blank"><img src="https://img.shields.io/twitter/follow/Ryzeon_?color=green&style=for-the-badge" alt="Ryzeon_" /></a>
+<a href="https://twitter.com/ImLew_" target="blank"><img src="https://img.shields.io/twitter/follow/ImLew_?color=blue&style=for-the-badge" alt="ImLew_" /></a>
 
-<p align="left"> <a href="https://twitter.com/imjoycepg" target="blank"><img src="https://img.shields.io/twitter/follow/imjoycepg?color=red&style=for-the-badge" alt="imjoycepg" /></a> </p>
-<p align="left"> <a href="https://twitter.com/Ryzeon_" target="blank"><img src="https://img.shields.io/twitter/follow/Ryzeon_?color=green&style=for-the-badge" alt="Ryzeon_" /></a> </p>
-<p align="left"> <a href="https://twitter.com/ImLew_" target="blank"><img src="https://img.shields.io/twitter/follow/ImLew_?color=blue&style=for-the-badge" alt="ImLew_" /></a> </p>
+</div>
 
 <h2 align="center"> LiveMC Network | Languages</h3>
 <p align="left">
