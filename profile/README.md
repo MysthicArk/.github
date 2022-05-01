@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
-<h2 align="left"> LiveMC Network | Members</h3>
+<h2 align="center"> LiveMC Network | Members</h3>
 
 <p align="center">
     <a href="https://discord.com/users/299732456037154817" target="_blank" rel="nofollow">
