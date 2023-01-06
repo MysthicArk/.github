@@ -1,4 +1,4 @@
-<h1 align="center"> LiveMC Network 🤠</h1>
+<h1 align="center"> MysthicArk Network 🤠</h1>
 <div align="center">
      <a href="https://twitter.com/imjoycepg" target="blank"><img src="https://img.shields.io/twitter/follow/imjoycepg?color=red&style=for-the-badge" alt="imjoycepg" /></a>
  <a href="https://twitter.com/Ryzeon_" target="blank"><img src="https://img.shields.io/twitter/follow/Ryzeon_?color=green&style=for-the-badge" alt="Ryzeon_" /></a>
