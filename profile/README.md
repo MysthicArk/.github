@@ -6,11 +6,11 @@
 
 </div>
 
-<h2 align="center"> LiveMC Network | Languages</h3>
+<h2 align="center"> MysthicArk Network | Languages</h3>
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
-<h2 align="center"> LiveMC Network | Members</h3>
+<h2 align="center"> MysthicArk Network | Members</h3>
 
 <p align="center">
     <a href="https://discord.com/users/299732456037154817" target="_blank" rel="nofollow">
@@ -21,11 +21,5 @@
 <p align="center">
     <a href="https://discord.com/users/411968391402749963" target="_blank" rel="nofollow">
         <img src="https://lanyard-profile-readme.vercel.app/api/411968391402749963?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://discord.com/users/725086496729858151" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/725086496729858151?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
     </a>
 </p>
